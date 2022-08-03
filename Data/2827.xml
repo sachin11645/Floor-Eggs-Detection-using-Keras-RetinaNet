@@ -1,0 +1,37 @@
+<annotation>
+	<folder>Data</folder>
+	<filename>2827.jpg</filename>
+	<path>/home/datascience/RS/PlumsVOC/JPEGImages/2827.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Egg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1794</xmin>
+			<ymin>485</ymin>
+			<xmax>1822</xmax>
+			<ymax>521</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Egg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1749</xmin>
+			<ymin>732</ymin>
+			<xmax>1780</xmax>
+			<ymax>763</ymax>
+		</bndbox>
+	</object>
+</annotation>

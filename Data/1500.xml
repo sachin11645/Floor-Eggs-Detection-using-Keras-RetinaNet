@@ -1,0 +1,25 @@
+<annotation>
+	<folder>Data</folder>
+	<filename>1500.jpg</filename>
+	<path>/home/datascience/RS/PlumsVOC/JPEGImages/1500.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Egg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1226</xmin>
+			<ymin>0</ymin>
+			<xmax>1256</xmax>
+			<ymax>19</ymax>
+		</bndbox>
+	</object>
+</annotation>
